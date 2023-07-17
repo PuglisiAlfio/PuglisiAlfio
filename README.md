@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfio Puglisi</h1>
 <h3 align="center">A passionate fullstack developer from Italy</h3>
-<img width="400px" align="center" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
+<img align="center" width="400px" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puglisialfio&label=Profile%20views&color=0e75b6&style=flat" alt="puglisialfio" /> </p>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS**
