@@ -22,5 +22,7 @@
 <span><img align="left" src="https://github-readme-stats.vercel.app/api?username=PuglisiAlfio&show_icons=true&locale=en" alt="puglisialfio" /></span>
 
 <span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PuglisiAlfio&" alt="puglisialfio" /></span>
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PuglisiAlfio&show_icons=true&locale=en&layout=compact" alt="puglisialfio" /></p>
+<br>
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=puglisialfio&label=Profile%20views&color=0e75b6&style=flat" alt="puglisialfio" /></p>
